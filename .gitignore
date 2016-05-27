@@ -1,0 +1,5 @@
+hello/
+*.txt
+ruby_to_md.rb
+test.rb
+test_*.rb
