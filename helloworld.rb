@@ -1,11 +1,18 @@
 #这是一个经典的ruby hello world程序
+
+=begin
+这是ruby的多行注释
+这是第二行
+=end
+
 puts "hello world"
 
 =begin
 
 1. 环境
-要先安装ruby，使用rubyinstaller进行安装
-#todo rubyinstaller的下载地址：
+要先安装ruby，本教程所有代码在ruby1.8.7下运行通过
+本教程使用windows环境，所以用rubyinstaller进行安装
+rubyinstaller的下载地址：http://rubyinstaller.org/downloads/archives
 
 2. irb
 irb是ruby的交互界面，在这里你可以尝试你的ruby代码
@@ -28,12 +35,8 @@ irb是ruby的交互界面，在这里你可以尝试你的ruby代码
 
 5. 注释
 #这是一个经典的ruby hello world程序
-#开头是ruby程序的单行注释
-如果要使用多行注释，可以每一行都#开头，也可以请用=begin =end，如下
-\begin
-这是ruby的多行注释
-这是第二行
-\end
+以#开头的是ruby程序的单行注释
+如果要使用多行注释，可以每一行都以#开头，也可以请用=begin =end，多行注释写在其中间
 
 6. puts
 puts "hello world"
