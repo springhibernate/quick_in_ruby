@@ -1,4 +1,4 @@
-[[exception<-](exception.md)]     [[Contents](../README.md)]     []  
+[[exception<-](exception.md)]     [[Contents](../README.md)]       
 # module  
 
 ```ruby
