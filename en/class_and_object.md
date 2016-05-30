@@ -1,4 +1,4 @@
-[[file and directory<-](file_and_dir.md)]     [[Contents](../README.md)]     [[->getter and setter](getter_and_setter.md)]  
+[ [file and directory<-](file_and_dir.md) ]     [[Contents](../README.md)]     [ [->getter and setter](getter_and_setter.md) ]  
 # class and object  
 
 ```ruby

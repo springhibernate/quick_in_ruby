@@ -1,4 +1,4 @@
-[[string<-](string.md)]     [[Contents](../README.md)]     [[->block](block.md)]  
+[ [string<-](string.md) ]     [[Contents](../README.md)]     [ [->block](block.md) ]  
 # method  
 
 ```ruby

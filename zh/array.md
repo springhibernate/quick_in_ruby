@@ -1,4 +1,4 @@
-[[block<-](block.md)]     [[Contents](../README.md)]     [[->hash](hash.md)]  
+[ [block<-](block.md) ]     [[Contents](../README.md)]     [ [->hash](hash.md) ]  
 # array  
 
 ```ruby

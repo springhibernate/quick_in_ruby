@@ -1,4 +1,4 @@
-[[extend and override<-](extend_and_override.md)]     [[Contents](../README.md)]     [[->module](module.md)]  
+[ [extend and override<-](extend_and_override.md) ]     [[Contents](../README.md)]     [ [->module](module.md) ]  
 # exception  
 
 ```ruby
