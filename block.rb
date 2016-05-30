@@ -29,6 +29,65 @@ end
 never_see(b1,b2)
 
 =begin	
+1. block
+do 
+ puts "i am google"
+end
+define a block here(you can regard it as a anonymous method),and pass to method when invoke hello()
+def hello
+ puts 'hello'
+ yield
+end
+then you can invoke the block by keywork "yield" in the method
+
+vice versa,because there is "yield" in the method hello,so you must pass a block in when invoke the hello(),as follow:
+hello() do 
+ puts "i am google"
+end
+ps:the block is after the parameters of method,in a word after () 
+because you can invoke method without bracket in ruby,so you can write this:
+hello do 
+ puts "i am google"
+end
+block can be surrounded by "do end" or "{}", so you can also write this:
+hello { puts "i am google"}
+
+2. block with parameter
+do |name|
+ puts 'see you next time,#{name}'
+end
+here define a block with a parameter,parameter is surrounded by ||(if has multi-parameters,use a separator "," between parameters)
+def goodbye
+ puts 'goodbye'	
+ yield 'twitter'
+end
+you can see that pass the parameter to block after the keyword yield(if has multi-parameters,use a separator "," between parameters,such as: yield 'twitter','google')
+
+3. multiple block
+all of above is can only pass a block to method and pass it after the parameters  
+if want to pass multiple blcok and as parameter to a method,must define block by keywork proc first
+b1=proc do
+ puts "goodbye android"
+end 
+here define a block b1 by keyword proc
+
+b2=proc do |year|
+ puts "goodbye ios #{year}"	
+end
+here define another block b2 with a parameter year
+
+then the two block pass to method as parameter,such as:never_see(b1,b2)
+
+def never_see(b1,b2)
+ b1.call
+ b2.call "for a billion years"
+end
+in the body of method,you can "block_name.all" to invoke the block
+b1.call                       invoke the block b1
+b2.call "for a billion years" invoke the block b2,and pass a parameter to the block
+=end
+
+=begin	
 1. 块
 do 
  puts "i am google"
@@ -49,7 +108,7 @@ end
 hello do 
  puts "i am google"
 end
-块可以用{}或do end，所以又可以写成以下
+块可以用do end或{}，所以又可以写成以下
 hello { puts "i am google"}
 
 2. 带参数的块
@@ -61,7 +120,7 @@ def goodbye
  puts 'goodbye'	
  yield 'twitter'
 end
-可以看到调用该块的格式为yeild 参数（如果有多个参数，参数间用,分隔），即yield 'twitter'
+可以看到调用该块的格式为yeild 参数（如果有多个参数，参数间用,分隔，如yield 'twitter','google'）
 
 3. 多个块
 上面介绍的都是只能传一个块给方法且在方法参数之后传入
@@ -82,7 +141,7 @@ def never_see(b1,b2)
  b1.call
  b2.call "for a billion years"
 end
-在方法里通过"块.call"来调用块
+在方法里通过"块名.call"来调用块
 b1.call 调用无参块b1
 b2.call "for a billion years" 调用带参块b2
 =end
