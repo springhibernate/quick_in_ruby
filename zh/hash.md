@@ -1,4 +1,4 @@
-[ [array<-](array.md) ]     [[Contents](../README.md)]     [ [->file and directory](file_and_dir.md) ]  
+[[array<-](array.md)]     [[Contents](../README.md)]     [[->file and directory](file_and_dir.md)]  
 # hash  
 
 ```ruby

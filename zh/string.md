@@ -1,4 +1,4 @@
-[ [flow<-](flow.md) ]     [[Contents](../README.md)]     [ [->method](method.md) ]  
+[[flow<-](flow.md)]     [[Contents](../README.md)]     [[->method](method.md)]  
 # string  
 
 ```ruby

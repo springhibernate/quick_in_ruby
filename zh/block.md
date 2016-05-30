@@ -1,4 +1,4 @@
-[ [method<-](method.md) ]     [[Contents](../README.md)]     [ [->array](array.md) ]  
+[[method<-](method.md)]     [[Contents](../README.md)]     [[->array](array.md)]  
 # block  
 
 ```ruby

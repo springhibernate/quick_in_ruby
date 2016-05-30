@@ -1,4 +1,4 @@
-[ [helloworld<-](helloworld.md) ]     [[Contents](../README.md)]     [ [->string](string.md) ]  
+[[helloworld<-](helloworld.md)]     [[Contents](../README.md)]     [[->string](string.md)]  
 # flow  
 
 ```ruby

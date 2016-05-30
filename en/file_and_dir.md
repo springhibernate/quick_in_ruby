@@ -1,4 +1,4 @@
-[ [hash<-](hash.md) ]     [[Contents](../README.md)]     [ [->class and object](class_and_object.md) ]  
+[[hash<-](hash.md)]     [[Contents](../README.md)]     [[->class and object](class_and_object.md)]  
 # file and directory  
 
 ```ruby

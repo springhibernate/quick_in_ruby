@@ -1,4 +1,4 @@
-[ [getter and setter<-](getter_and_setter.md) ]     [[Contents](../README.md)]     [ [->exception](exception.md) ]  
+[[getter and setter<-](getter_and_setter.md)]     [[Contents](../README.md)]     [[->exception](exception.md)]  
 # extend and override  
 
 ```ruby

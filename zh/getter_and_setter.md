@@ -1,4 +1,4 @@
-[ [class and object<-](class_and_object.md) ]     [[Contents](../README.md)]     [ [->extend and override](extend_and_override.md) ]  
+[[class and object<-](class_and_object.md)]     [[Contents](../README.md)]     [[->extend and override](extend_and_override.md)]  
 # getter and setter  
 
 ```ruby
