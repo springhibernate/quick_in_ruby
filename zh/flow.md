@@ -1,4 +1,4 @@
-[helloworld<-](helloworld.md)  [Contents](../README.md)  [->string](string.md)  
+[[helloworld<-](helloworld.md)]     [[Contents](../README.md)]     [[->string](string.md)]  
 # flow  
 
 ```ruby
@@ -40,7 +40,7 @@ end
 end
 
 
-```
+
   
 1. if条件控制  
 if x==3  
@@ -99,3 +99,4 @@ each后面是一个块，每次循环赋值给块的参数k
 注意0...3与0..3的区别：前者不包含3，后者包含3  
   
 
+```

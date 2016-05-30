@@ -1,4 +1,4 @@
-[method<-](method.md)  [Contents](../README.md)  [->array](array.md)  
+[[method<-](method.md)]     [[Contents](../README.md)]     [[->array](array.md)]  
 # block  
 
 ```ruby
@@ -33,7 +33,7 @@ end
 never_see(b1,b2)
 
 
-```
+
   
 1. block  
 do  
@@ -94,3 +94,4 @@ b2.call "for a billion years" invoke the block b2,and pass a parameter to the bl
   
   
 
+```

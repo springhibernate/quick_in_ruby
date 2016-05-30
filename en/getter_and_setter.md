@@ -1,4 +1,4 @@
-[class and object<-](class_and_object.md)  [Contents](../README.md)  [->extend and override](extend_and_override.md)  
+[[class and object<-](class_and_object.md)]     [[Contents](../README.md)]     [[->extend and override](extend_and_override.md)]  
 # getter and setter  
 
 ```ruby
@@ -20,7 +20,7 @@ b1.width=500
 puts "my width is ",b1.width
 
 
-```
+
   
 1. getter  
 after defining a instance variable of class,must define a getter if want to access it  
@@ -56,3 +56,4 @@ end
   
   
 
+```

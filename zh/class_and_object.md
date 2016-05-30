@@ -1,4 +1,4 @@
-[file and directory<-](file_and_dir.md)  [Contents](../README.md)  [->getter and setter](getter_and_setter.md)  
+[[file and directory<-](file_and_dir.md)]     [[Contents](../README.md)]     [[->getter and setter](getter_and_setter.md)]  
 # class and object  
 
 ```ruby
@@ -30,7 +30,7 @@ puts Customer.how_many
 puts Customer::JOB_JARGON
 
 
-```
+
   
 1. 定义类  
 class Customer  
@@ -91,3 +91,4 @@ puts Customer::JOB_JARGON
 以上代码是打印类常量，可以看到类常量的调用格式为"类名::常量名"  
   
 
+```

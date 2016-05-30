@@ -1,4 +1,4 @@
-[file and directory<-](file_and_dir.md)  [Contents](../README.md)  [->getter and setter](getter_and_setter.md)  
+[[file and directory<-](file_and_dir.md)]     [[Contents](../README.md)]     [[->getter and setter](getter_and_setter.md)]  
 # class and object  
 
 ```ruby
@@ -30,7 +30,7 @@ puts Customer.how_many
 puts Customer::JOB_JARGON
 
 
-```
+
   
 1. define class  
 class Customer  
@@ -92,3 +92,4 @@ here uses the class constant,the invoke format is "class_name::constant_name"
   
   
 
+```

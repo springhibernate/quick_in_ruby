@@ -1,4 +1,4 @@
-[class and object<-](class_and_object.md)  [Contents](../README.md)  [->extend and override](extend_and_override.md)  
+[[class and object<-](class_and_object.md)]     [[Contents](../README.md)]     [[->extend and override](extend_and_override.md)]  
 # getter and setter  
 
 ```ruby
@@ -20,7 +20,7 @@ b1.width=500
 puts "my width is ",b1.width
 
 
-```
+
   
 1. getter(取器)  
 为类定义实例变量后，要通过对象访问实例变量，必须为类定义getter  
@@ -54,3 +54,4 @@ class Box
 end  
   
 
+```

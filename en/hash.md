@@ -1,4 +1,4 @@
-[array<-](array.md)  [Contents](../README.md)  [->file and directory](file_and_dir.md)  
+[[array<-](array.md)]     [[Contents](../README.md)]     [[->file and directory](file_and_dir.md)]  
 # hash  
 
 ```ruby
@@ -29,7 +29,7 @@ months.each_value do |v|
 end
 
 
-```
+
   
 1. define hash  
 months = {"1" => "January", "2" => "February"}  
@@ -56,3 +56,4 @@ hash's each_value method iterates all values
   
   
 
+```

@@ -1,4 +1,4 @@
-[exception<-](exception.md)  [Contents](../README.md)    
+[[exception<-](exception.md)]     [[Contents](../README.md)]     []  
 # module  
 
 ```ruby
@@ -28,7 +28,7 @@ tool.a
 tool.t
 
 
-```
+
   
 1. 模块的作用  
 模块提供了命名空间避免命名冲突  
@@ -74,3 +74,4 @@ tool.a
 此时通过tool.a调用模块A的a方法，说明模块的方法已成为类的实例方法  
   
 
+```

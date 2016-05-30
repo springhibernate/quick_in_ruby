@@ -1,4 +1,4 @@
-[block<-](block.md)  [Contents](../README.md)  [->hash](hash.md)  
+[[block<-](block.md)]     [[Contents](../README.md)]     [[->hash](hash.md)]  
 # array  
 
 ```ruby
@@ -33,7 +33,7 @@ end
 
 
 
-```
+
   
 1. define array  
 arr = [ "a", "b", "c", "d", "e" ]  
@@ -46,7 +46,7 @@ arr[0]="h" change the first element to "h"
 arr[0,3]   from the first element , return three element  
 arr[-3,3]  from the third last elemtn , return three element  
   
-3. 常用方法  
+3. most used method  
 arr << "f"        append a element to the array's tail  
 arr.size          return the length of the array  
 arr.empty?        return whether array is empty  
@@ -64,3 +64,4 @@ iterate the array through each method and block , the parameter "a" in block is 
   
   
 
+```

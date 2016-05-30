@@ -1,4 +1,4 @@
-[getter and setter<-](getter_and_setter.md)  [Contents](../README.md)  [->exception](exception.md)  
+[[getter and setter<-](getter_and_setter.md)]     [[Contents](../README.md)]     [[->exception](exception.md)]  
 # extend and override  
 
 ```ruby
@@ -28,7 +28,7 @@ p.go
 p.hello 
 
 
-```
+
   
 1. extend  
 a class extends another class, it will inherit the varialbe and method of another class.the former is called child class,the latter is called parent class  
@@ -64,3 +64,4 @@ it tells that child class Person's hello method overrides parent's hello
   
   
 
+```

@@ -1,4 +1,4 @@
-[hash<-](hash.md)  [Contents](../README.md)  [->class and object](class_and_object.md)  
+[[hash<-](hash.md)]     [[Contents](../README.md)]     [[->class and object](class_and_object.md)]  
 # file and directory  
 
 ```ruby
@@ -41,7 +41,7 @@ end
 Dir.mkdir(dir_name2)
 
 
-```
+
   
 1. 写文件  
 File.open(file_name,"a") do |f|  
@@ -96,3 +96,4 @@ Dir.delete(dir_name2) 删除目录dir_name2，注意dir_name2空才能删除（即没有子目录或
 Dir.mkdir(dir_name2) 创建目录dir_name2  
   
 
+```

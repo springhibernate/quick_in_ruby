@@ -1,4 +1,4 @@
-[exception<-](exception.md)  [Contents](../README.md)    
+[[exception<-](exception.md)]     [[Contents](../README.md)]     []  
 # module  
 
 ```ruby
@@ -28,7 +28,7 @@ tool.a
 tool.t
 
 
-```
+
   
 1. module's function  
 it provide namespace to avoid naming collison  
@@ -82,3 +82,4 @@ after initializing Tool,invoke the method a by "tool.a",it tells that the method
   
   
 
+```

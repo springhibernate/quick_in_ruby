@@ -1,4 +1,4 @@
-[array<-](array.md)  [Contents](../README.md)  [->file and directory](file_and_dir.md)  
+[[array<-](array.md)]     [[Contents](../README.md)]     [[->file and directory](file_and_dir.md)]  
 # hash  
 
 ```ruby
@@ -29,7 +29,7 @@ months.each_value do |v|
 end
 
 
-```
+
   
 1. 定义哈希  
 months = {"1" => "January", "2" => "February"}  
@@ -55,3 +55,4 @@ months.size 哈希中键值的对数
 哈希的each_value方法循环值  
   
 
+```

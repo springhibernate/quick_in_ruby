@@ -1,4 +1,4 @@
-[extend and override<-](extend_and_override.md)  [Contents](../README.md)  [->module](module.md)  
+[[extend and override<-](extend_and_override.md)]     [[Contents](../README.md)]     [[->module](module.md)]  
 # exception  
 
 ```ruby
@@ -28,7 +28,7 @@ end
 
 
 
-```
+
   
 1. 捕获异常  
 begin  
@@ -49,3 +49,4 @@ end
 这里通过继承Exception自定义了一个叫MyException的异常  
   
 
+```

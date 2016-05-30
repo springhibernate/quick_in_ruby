@@ -1,4 +1,4 @@
-[helloworld<-](helloworld.md)  [Contents](../README.md)  [->string](string.md)  
+[[helloworld<-](helloworld.md)]     [[Contents](../README.md)]     [[->string](string.md)]  
 # flow  
 
 ```ruby
@@ -40,7 +40,7 @@ end
 end
 
 
-```
+
   
 1. if  
 if x==3  
@@ -101,3 +101,4 @@ ps:0...3 differentiate 0..3,the former not contains 3,the latter contains 3
   
   
 
+```

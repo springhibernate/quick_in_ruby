@@ -1,4 +1,4 @@
-[method<-](method.md)  [Contents](../README.md)  [->array](array.md)  
+[[method<-](method.md)]     [[Contents](../README.md)]     [[->array](array.md)]  
 # block  
 
 ```ruby
@@ -33,7 +33,7 @@ end
 never_see(b1,b2)
 
 
-```
+
   
 1. 块  
 do  
@@ -93,3 +93,4 @@ b1.call 调用无参块b1
 b2.call "for a billion years" 调用带参块b2  
   
 
+```

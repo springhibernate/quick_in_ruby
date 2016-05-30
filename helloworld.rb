@@ -3,7 +3,7 @@ puts("hello world")
 
 =begin
 1. environment
-firt install ruby,the code of this tutorial all run successfully under ruby1.8.7
+first install ruby,the code of this tutorial all run successfully under ruby1.8.7
 this tutorial is base on windows,so use rubyinstaller to install ruby 
 rubyinstaller can download from : http://rubyinstaller.org/downloads/archives
 

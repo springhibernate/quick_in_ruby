@@ -1,4 +1,4 @@
-[string<-](string.md)  [Contents](../README.md)  [->block](block.md)  
+[[string<-](string.md)]     [[Contents](../README.md)]     [[->block](block.md)]  
 # method  
 
 ```ruby
@@ -24,7 +24,7 @@ end
 puts add(3,4)
 
 
-```
+
   
 1. 定义没有参数的方法  
 def hello  
@@ -60,3 +60,4 @@ def add(x,y)
 end  
   
 
+```

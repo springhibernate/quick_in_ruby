@@ -1,4 +1,4 @@
-[flow<-](flow.md)  [Contents](../README.md)  [->method](method.md)  
+[[flow<-](flow.md)]     [[Contents](../README.md)]     [[->method](method.md)]  
 # string  
 
 ```ruby
@@ -45,7 +45,7 @@ puts " ruby is amazing ".strip
 puts "ruby,python,java".split(",")
 
 
-```
+
   
 1. 单引号字符串  
 str='this is single quote string'  
@@ -129,3 +129,4 @@ str.length
 把字符按照分隔符,分隔为数组  
   
 
+```

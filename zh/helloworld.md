@@ -1,4 +1,4 @@
-  [Contents](../README.md)  [->flow](flow.md)  
+[]     [[Contents](../README.md)]     [[->flow](flow.md)]  
 # helloworld  
 
 ```ruby
@@ -6,7 +6,7 @@
 puts("hello world")
 
 
-```
+
   
 1. 环境  
 要先安装ruby，本教程所有代码在ruby1.8.7下运行通过  
@@ -49,3 +49,4 @@ puts "hello world"
   
   
 
+```

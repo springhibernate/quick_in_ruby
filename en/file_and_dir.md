@@ -1,4 +1,4 @@
-[hash<-](hash.md)  [Contents](../README.md)  [->class and object](class_and_object.md)  
+[[hash<-](hash.md)]     [[Contents](../README.md)]     [[->class and object](class_and_object.md)]  
 # file and directory  
 
 ```ruby
@@ -41,7 +41,7 @@ end
 Dir.mkdir(dir_name2)
 
 
-```
+
   
 1. write a file  
 File.open(file_name,"a") do |f|  
@@ -97,3 +97,4 @@ Dir.mkdir(dir_name2)       create a directory named dir_name2
   
   
 
+```

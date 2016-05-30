@@ -1,4 +1,4 @@
-[getter and setter<-](getter_and_setter.md)  [Contents](../README.md)  [->exception](exception.md)  
+[[getter and setter<-](getter_and_setter.md)]     [[Contents](../README.md)]     [[->exception](exception.md)]  
 # extend and override  
 
 ```ruby
@@ -28,7 +28,7 @@ p.go
 p.hello 
 
 
-```
+
   
 1. 继承  
 一个类继承另外一个类，会拥有另外一个类的变量和方法。前者叫子类，后者叫父类  
@@ -63,3 +63,4 @@ p.hello
 说明子类Person的hello方法覆盖了父类的hello方法  
   
 
+```

@@ -1,4 +1,4 @@
-[flow<-](flow.md)  [Contents](../README.md)  [->method](method.md)  
+[[flow<-](flow.md)]     [[Contents](../README.md)]     [[->method](method.md)]  
 # string  
 
 ```ruby
@@ -45,7 +45,7 @@ puts " ruby is amazing ".strip
 puts "ruby,python,java".split(",")
 
 
-```
+
   
 1. string of single quote  
 str='this is single quote string'  
@@ -131,3 +131,4 @@ return a array contains element which is sperated from string by the sperator ",
   
   
 
+```

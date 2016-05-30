@@ -1,4 +1,4 @@
-[block<-](block.md)  [Contents](../README.md)  [->hash](hash.md)  
+[[block<-](block.md)]     [[Contents](../README.md)]     [[->hash](hash.md)]  
 # array  
 
 ```ruby
@@ -33,7 +33,7 @@ end
 
 
 
-```
+
   
 1. 定义数组  
 arr = [ "a", "b", "c", "d", "e" ]  
@@ -63,3 +63,4 @@ end
 通过数组的each方法和块循环数组，块的参数a是每一个元素  
   
 
+```

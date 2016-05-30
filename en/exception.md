@@ -1,4 +1,4 @@
-[extend and override<-](extend_and_override.md)  [Contents](../README.md)  [->module](module.md)  
+[[extend and override<-](extend_and_override.md)]     [[Contents](../README.md)]     [[->module](module.md)]  
 # exception  
 
 ```ruby
@@ -28,7 +28,7 @@ end
 
 
 
-```
+
   
 1. catch execption  
 begin  
@@ -52,3 +52,4 @@ here defines a exceptin named MyException through extending Exception
   
   
 
+```
